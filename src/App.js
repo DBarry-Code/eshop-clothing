@@ -1,7 +1,7 @@
 import React from "react";
 
 //* import Components:
-import HomePage from "./components/homepage";
+import HomePage from "./pages/homepage";
 
 //* import CSS:
 import "./App.css";
